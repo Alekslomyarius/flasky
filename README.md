@@ -15,8 +15,4 @@ flask db migrate
 flask db upgrade
 flask test
 flask run
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> a44508b702a573ca7e9f1c03f66550c3bc62cfde
